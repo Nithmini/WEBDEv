@@ -23,7 +23,7 @@ h6 {
 }
 
 #one {
-    background-color: rgba(238, 32, 180, 0.081);
+    background-color: rgba(221, 53, 174, 0.081);
 }
 #header {
     
@@ -563,4 +563,7 @@ h6 {
     .dashboard-compact .dashboard-toolbar {
         left: 0;
     }
+}
+footer{
+    padding-top: 152px;
 }
